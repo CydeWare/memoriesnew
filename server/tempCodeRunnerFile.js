@@ -1,1 +1,0 @@
-import userRoutes from "./routes/users.js";
